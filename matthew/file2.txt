@@ -1,6 +1,7 @@
 This is file2 of git learn.
 
 hello
+hello2
 Testing change.
 end
 end1
